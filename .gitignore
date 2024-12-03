@@ -364,3 +364,4 @@ FodyWeavers.xsd
 
 .env
 .idea/.idea.foodie-connect-backend/Docker/docker-compose.generated.override.yml
+scripts/changer.py
